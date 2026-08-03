@@ -32,7 +32,8 @@ Praticar:
 ## 📷 Demonstração
 
 
-```
+![Tela do projeto](Captura%20de%20tela%20de%202026-08-03%2019-59-05.png)
+
 
 ## 👨‍💻 Autor
 
